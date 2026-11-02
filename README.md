@@ -4,7 +4,7 @@ BTech project, NIT Calicut (Jan – May 2026) · Team of 4 · Guide: Dr. Jaikuma
 
 **My role:** Silvaco TCAD recalibration and generation of the simulation dataset.
 
-📄 **[Read the full report (PDF)](report.pdf)**
+📄 **[Read the full report (PDF)](report_mosfet_ml.pdf)**
 
 ## Problem
 
